@@ -30,19 +30,19 @@ implement that.
 
 Memory Dump:
 
-![](VirtualCpuFiles/pic1.png)
+![](pic1.png)
 
  
 
 Register Display:
 
-![](VirtualCpuFiles/pic2.png)
+![](pic2.png)
 
  
 
 Displayed registers after running through a program:
 
-![](VirtualCpuFiles/pic3.png)
+![](pic3.png)
 
  
 
